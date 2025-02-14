@@ -1,0 +1,13 @@
+Summary of Merge Conflict
+
+The merge conflict was caused by concurrent changes to the README.md file. To resolve it, 
+I manually edited the conflicting sections to include both the student ID from the Test branch 
+and the Git version from the Working branch. After resolving the conflict, the changes were 
+staged and committed.
+
+Summary of Commit Changes
+1. Added CSS styling to the contact form in `contact.html`.
+2. Added a new "Tech News" section to `index.html` with a carousel of articles.
+3. Updated the `services.html` page with new icons and descriptions for offered services.
+
+
